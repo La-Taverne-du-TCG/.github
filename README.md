@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/La-Taverne-du-TCG/la-taverne-du-tcg.github.io/main/logo.png" alt="La Taverne du TCG" width="120" />
+<img src="https://la-taverne-du-tcg.github.io/icon.svg" alt="La Taverne du TCG" width="120" />
 
 # La Taverne du TCG
 
